@@ -134,6 +134,9 @@ Ce projet permet de :
 ├── RenderEffect
 │   ├── WrongRenderEffect.js
 │   └── RightRenderEffect.js
+├── Trigger/
+│   ├── WrongTriggerEffect.js  # Effet déclenché via state inutilement
+│   └── RightTriggerEffect.js
 └── README.md 
 ```
 
